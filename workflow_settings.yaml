@@ -1,0 +1,5 @@
+dataformCoreVersion: 3.0.0-beta.6
+defaultProject: dataform-sandbox-may2024
+defaultLocation: australia-southeast1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
